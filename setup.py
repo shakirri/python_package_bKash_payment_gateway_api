@@ -13,9 +13,9 @@ setup(
     url="https://github.com/ArjanCodes/2023-package",
     author="Redwanul Islam Shakir",
     author_email="ri8shakir@gmail.com",
-    license="MIT",
+    license="Null",
     classifiers=[
-        "License :: OSI Approved :: MIT License",
+        "License :: OSI Approved :: Null License",
         "Programming Language :: Python :: 3.10",
         "Operating System :: OS Independent",
     ],
